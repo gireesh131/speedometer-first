@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  min-width: 100vw;
+  background-color: #07080c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-size: 34px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 300;
+}
+.img-properties {
+  width: 400px;
+}
+.sub-heading {
+  font-size: 26px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.sub-passage {
+  color: #94a3b8;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.btn-accelerate {
+  font-size: 18px;
+  padding: 8px;
+  background-color: #0b69ff;
+  color: #ffffff;
+}
+.btn-break {
+  font-size: 18px;
+  padding: 8px;
+  background-color: transparent;
+  color: #94a3b8;
+}
