@@ -4,6 +4,7 @@
   min-width: 100vw;
   background-color: #07080c;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
